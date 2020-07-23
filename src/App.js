@@ -1,10 +1,11 @@
 import React from 'react'
 import Screen from './components/Screen'
+import './assets/css/sprites.css'
 
 const App = () => (
-  <div>
+  <>
     <Screen />
-  </div>
+  </>
 )
 
 export default App
