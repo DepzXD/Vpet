@@ -20,7 +20,7 @@ const Screen = () => {
         <div className="modal">
           <div className="modal-inner">Press the middle butten to start</div>
         </div>
-        <ButtonsStyles>
+        <ButtonsStyles className="buttons">
           <div className="btn left-btn"></div>
           <div className="btn middle-btn"></div>
           <div className="btn right-btn"></div>
