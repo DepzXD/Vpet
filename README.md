@@ -13,7 +13,7 @@ yarn install
 ### Start the server
 
 ```
-yarn Start
+yarn dev
 ```
 
 __*Ref & Assets:*__
